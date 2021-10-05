@@ -1,0 +1,60 @@
+#include <AFMotor.h>
+
+AF_DCMotor motor(1);
+AF_DCMotor motor_2(2);
+
+const int MOVE_SPEED = 110;
+const int ROTATE_SPEED = 180;
+const int STOP_SPEED = 0;
+
+
+void setup() {
+  motor.setSpeed(STOP_SPEED);
+  motor_2.setSpeed(STOP_SPEED);
+
+  motor.run(RELEASE);
+  motor_2.run(RELEASE);
+  
+  Serial.begin(9600);
+}
+
+
+void loop() {
+  if(Serial.available()){
+    int type_data = Serial.read() - 48;
+
+    switch(type_data){
+      case 1:
+        motor.setSpeed(MOVE_SPEED);
+        motor_2.setSpeed(MOVE_SPEED);
+        motor_2.run(FORWARD);
+        motor.run(FORWARD); 
+        break;
+      case 2:
+        motor.setSpeed(MOVE_SPEED);
+        motor_2.setSpeed(MOVE_SPEED);
+        motor_2.run(BACKWARD);
+        motor.run(BACKWARD); 
+        break;
+      case 3:
+        motor.setSpeed(ROTATE_SPEED);
+        motor_2.setSpeed(ROTATE_SPEED);
+        motor_2.run(FORWARD);
+        motor.run(BACKWARD); 
+        break;
+      case 4:
+        motor.setSpeed(ROTATE_SPEED);
+        motor_2.setSpeed(ROTATE_SPEED);
+        motor_2.run(BACKWARD);
+        motor.run(FORWARD);
+        break;
+      case 5:
+        motor.setSpeed(STOP_SPEED);
+        motor_2.setSpeed(STOP_SPEED);
+        motor_2.run(RELEASE);
+        motor.run(RELEASE);
+        break;      
+    }
+  }
+}
+
