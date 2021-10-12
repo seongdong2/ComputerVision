@@ -14,7 +14,7 @@ from rpi.ultrasonic_sensor import Ultrasonic
 from vision_module import detect
 from vision_module import find_template
 
-
+ 
 class Robot:
     SAFE_AREA = 50
 
