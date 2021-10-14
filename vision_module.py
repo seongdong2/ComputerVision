@@ -9,8 +9,7 @@ CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
 net = cv2.dnn.readNetFromCaffe(
     "MobileNetSSD_deploy.prototxt.txt", "MobileNetSSD_deploy.caffemodel")
 
-BLACK_CRITERIA = 70
-
+BLACK_CRITERIA = 60
 
 def detect(frame):
     (h, w) = frame.shape[:2]
