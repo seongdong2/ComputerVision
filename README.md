@@ -1,8 +1,9 @@
 # 검은 옷의 생각들
 
-## Index
+
+## 목차
   - [개요](#overview) 
-  - [사용방법](#getting-started)
+  - [제품 소개](#getting-started)
   - [기여도](#contributing)
   - [Authors](#authors)
   - [License](#license)
@@ -11,16 +12,17 @@
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
 
-## Overview
+## OVERVIEW
 <!-- Write Overview about this project -->
 ![슬라이드1](https://user-images.githubusercontent.com/90887712/137261476-9f76b7dc-b443-4d67-bdb9-4654d929c27b.JPG)
 
-![슬라이드2](https://user-images.githubusercontent.com/90887712/137261513-bbe753d3-a891-4764-8c91-33c678600e08.JPG)
-
-![슬라이드3](https://user-images.githubusercontent.com/90887712/137261532-0edda9be-af77-423b-891b-b01fc0c15e33.JPG)
-
-## Getting Started
+## 알고리즘
 **click `Use this template` and use this template!**
+
+![슬라이드2](https://user-images.githubusercontent.com/90887712/137262397-5fd37c8d-161e-4024-8a44-69db0bd2a9eb.JPG)
+
+![슬라이드3](https://user-images.githubusercontent.com/90887712/137262402-16b91f1d-6dd4-4b11-a986-c29c05dba238.JPG)
+
 <!--
 ### Depencies
  Write about need to install the software and how to install them 
