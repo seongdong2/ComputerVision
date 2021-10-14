@@ -1,5 +1,6 @@
 import serial
 
+
 class Car:
     FORWARD = "1"
     BACKWARD = "2"
@@ -17,7 +18,7 @@ class Car:
         """
         :param move_type: Car.FORWARD, Car.LEFT 와 같은 움직임 유형
         이전 명령이 남아있다면 다 보낼 때까지 대기한 다음
-        움직임 값을 시리얼 통신을 이용해 아두이노로 전송한다.
+        움직임 값을 시리얼 통신을 이용해 아두이노로 전송한다
         """
         if self.s.isOpen():
             self.s.flush()
