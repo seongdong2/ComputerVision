@@ -2,22 +2,22 @@
 
 
 ## 목차
-  - [개요](#overview) 
-  - [제품 소개](#getting-started)
-  - [기여도](#contributing)
-  - [Authors](#authors)
+  - [제품 소개](#overview) 
+  - [제품 알고리즘](#getting-started)
   - [License](#license)
 <!--  Other options to write Readme
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
 
-## OVERVIEW
-<!-- Write Overview about this project -->
+## 제품 소개
+**총 2개의 제품 동일한 형태로 완성**
 ![슬라이드1](https://user-images.githubusercontent.com/90887712/137261476-9f76b7dc-b443-4d67-bdb9-4654d929c27b.JPG)
 
-## 알고리즘
-**click `Use this template` and use this template!**
+
+
+## 제품 알고리즘
+
 
 ![슬라이드2](https://user-images.githubusercontent.com/90887712/137262397-5fd37c8d-161e-4024-8a44-69db0bd2a9eb.JPG)
 
@@ -27,40 +27,18 @@
 ### Depencies
  Write about need to install the software and how to install them 
 -->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
+### How to
+1. Clone all of this Repos
+2. Click `start.py' 
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
  -->
-## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
-## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+
+
+
 
 ## License
 
