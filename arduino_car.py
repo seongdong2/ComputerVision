@@ -1,6 +1,5 @@
 import serial
 
-
 class Car:
     FORWARD = "1"
     BACKWARD = "2"
