@@ -3,7 +3,6 @@
 AF_DCMotor motor(1);
 AF_DCMotor motor_2(2);
 
-
 const int MOVE_SPEED = 120;
 const int ROTATE_SPEED = 180;
 const int STOP_SPEED = 0;
