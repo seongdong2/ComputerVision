@@ -1,6 +1,5 @@
 # 검은 옷의 생각들
 
-
 ## 목차
   - [제품 소개](#overview) 
   - [제품 알고리즘](#getting-started)
