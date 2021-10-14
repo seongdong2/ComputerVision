@@ -10,19 +10,14 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About RepositoryTemplate
-<!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
 
 ## Overview
 <!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+![슬라이드1](https://user-images.githubusercontent.com/90887712/137261476-9f76b7dc-b443-4d67-bdb9-4654d929c27b.JPG)
+
+![슬라이드2](https://user-images.githubusercontent.com/90887712/137261513-bbe753d3-a891-4764-8c91-33c678600e08.JPG)
+
+![슬라이드3](https://user-images.githubusercontent.com/90887712/137261532-0edda9be-af77-423b-891b-b01fc0c15e33.JPG)
 
 ## Getting Started
 **click `Use this template` and use this template!**
