@@ -1,8 +1,8 @@
 # 졸업 프로젝트
 
 ## 목차
-  - [제품 소개](#overview) 
-  - [제품 알고리즘](#getting-started)
+  - [제품 소개](#제품 소개) 
+  - [제품 알고리즘](#제품 알고리즘)
   - [License](#license)
 <!--  Other options to write Readme
   - [Deployment](#deployment)
