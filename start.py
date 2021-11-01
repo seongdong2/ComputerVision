@@ -3,5 +3,4 @@ from robot import robot
 
 cap = cv2.VideoCapture()
 
-
-while True: robot
+robot
